@@ -17,7 +17,7 @@ contract AdvancedBank {
         _;
     }
 
-    // Function to deposit Ether into the bank
+    // Function to  deposit Ether into the bank
     function deposit() public payable {
         /* TODO:
         1) Check that the deposit amount is greater than zero
